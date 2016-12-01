@@ -76,13 +76,13 @@ namespace RapidInterface
             try
             {
                 SplashScreenManager.ShowForm(null, typeof(WaitFormEx), true, true, false);
-                SplashScreenManager.Default.SetWaitFormDescription(string.Format("Обновляется схема базы данных..."));
+                SplashScreenManager.Default.SetWaitFormDescription("Обновляется схема базы данных...");
 
                 XpoDefault.Session.UpdateSchema();
 
                 SplashScreenManager.CloseForm(false);
             }
-            catch (System.Exception ex)
+            catch (Exception ex)
             {
                 SplashScreenManager.CloseForm(false);
 
