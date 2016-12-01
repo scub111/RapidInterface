@@ -91,7 +91,6 @@ namespace RapidInterface
                     MessageBoxButtons.OK,
                     MessageBoxIcon.Warning,
                     MessageBoxDefaultButton.Button1);
-
             }
         }
 
