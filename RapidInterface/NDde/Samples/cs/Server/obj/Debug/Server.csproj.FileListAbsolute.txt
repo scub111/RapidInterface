@@ -1,0 +1,6 @@
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\bin\Debug\Server.exe
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\bin\Debug\Server.pdb
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\bin\Debug\NDde.dll
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\bin\Debug\NDde.xml
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\obj\Debug\Server.exe
+C:\Users\BiscubKN\Downloads\NDde.2.01.0563.src\NDde\Samples\cs\Server\obj\Debug\Server.pdb

@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E691DB11-E8FD-4D05-8ED5-BBE22326ECB5}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>RapidInterface</RootNamespace>
+    <AssemblyName>RapidInterface</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.BonusSkins.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Data.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v14.2.Core, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.Xpo.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraEditors.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraGrid.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraLayout.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraNavBar.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraPrinting.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v14.2, Version=14.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.configuration">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Design">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Runtime.Serialization">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Data">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Drawing">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Usable, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\Usable\Usable\bin\Debug\Usable.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\AllowSwitchMessage.cs" />
+    <Compile Include="Classes\MasterRowInfo.cs" />
+    <Compile Include="Classes\EnumTypeConverter.cs" />
+    <Compile Include="Classes\ImageEx.cs" />
+    <Compile Include="Classes\XPCollectionWithUnit.cs" />
+    <Compile Include="Classes\XPObjectEx.cs" />
+    <Compile Include="Classes\XPTable.cs" />
+    <Compile Include="Controls\DateEditEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\DateEditEx.Designer.cs">
+      <DependentUpon>DateEditEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\RepositoryItemDateEditEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\RepositoryItemDateEditEx.Designer.cs">
+      <DependentUpon>RepositoryItemDateEditEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection\SecurityConverter.cs" />
+    <Compile Include="DBConnection\Security.cs" />
+    <Compile Include="DBConnection\DataBaseNewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBConnection\DataBaseNewForm.Designer.cs">
+      <DependentUpon>DataBaseNewForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnection\DataBaseErrorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBConnection\DataBaseErrorForm.Designer.cs">
+      <DependentUpon>DataBaseErrorForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\DBAttribute.cs" />
+    <Compile Include="DBConnection\LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBConnection\LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\PropertyGridEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\SplashScreenEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\SplashScreenEx.Designer.cs">
+      <DependentUpon>SplashScreenEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\WaitFormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\WaitFormEx.Designer.cs">
+      <DependentUpon>WaitFormEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBForm\DBFormActionList.cs" />
+    <Compile Include="DBForm\DBFormDesignerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBForm\DBFormDesignerForm.Designer.cs">
+      <DependentUpon>DBFormDesignerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBForm\DBFormDesigner.cs" />
+    <Compile Include="DBForm\DBForm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DBForm\DBForm.Designer.cs">
+      <DependentUpon>DBForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBForm\DBFormDesignerVerbCollections.cs" />
+    <Compile Include="DBForm\DBFormItemBase.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DBForm\DBFormItemCollectionEditor.cs" />
+    <Compile Include="DBForm\DBFormItemView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DBView\DBViewReport.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DBView\DBViewReport.Designer.cs">
+      <DependentUpon>DBViewReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBView\DBViewBase.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DBView\DBViewBase.Designer.cs">
+      <DependentUpon>DBViewBase.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBView\DBViewInterfaceDesignerVerbCollections.cs" />
+    <Compile Include="DBConnection\DBConnectionDesigner.cs" />
+    <Compile Include="DBInterface\DBInterfaceActionList.cs" />
+    <Compile Include="DBInterface\DBInterfaceDesigner.cs" />
+    <Compile Include="DBInterface\DBInterfaceDesignerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DBInterface\DBInterfaceDesignerForm.Designer.cs">
+      <DependentUpon>DBInterfaceDesignerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBInterface\DBInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DBInterface\DBInterface.Designer.cs">
+      <DependentUpon>DBInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBInterface\DBInterfaceDesignerVerbCollections.cs" />
+    <Compile Include="DBInterface\DBInterfaceItem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DBInterface\DBInterfaceItemCollectionEditor.cs" />
+    <Compile Include="Controls\GridControlEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\GridControlEx.Designer.cs">
+      <DependentUpon>GridControlEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\LayoutControlEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\DataNavigatorEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\DataNavigatorEx.Designer.cs">
+      <DependentUpon>DataNavigatorEx.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBView\DBViewInterface.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DBView\DBViewInterface.Designer.cs">
+      <DependentUpon>DBViewInterface.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBView\DBViewInterfaceDesigner.cs" />
+    <Compile Include="Classes\HostComponent.cs" />
+    <Compile Include="DBConnection\DBConnection.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Classes\XPSourceConverter.cs" />
+    <Compile Include="Classes\Event.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Classes\MemberInfo.cs" />
+    <Compile Include="Classes\TypeEx.cs" />
+    <Compile Include="Classes\XPCollections.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\XtraFormOnline.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\XtraFormEx.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Classes\XtraFormOnline.resx">
+      <DependentUpon>XtraFormOnline.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DateEditEx.resx">
+      <DependentUpon>DateEditEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\RepositoryItemDateEditEx.resx">
+      <DependentUpon>RepositoryItemDateEditEx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBConnection\DataBaseNewForm.resx">
+      <DependentUpon>DataBaseNewForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBConnection\DataBaseErrorForm.resx">
+      <DependentUpon>DataBaseErrorForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBConnection\LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\SplashScreenEx.resx">
+      <DependentUpon>SplashScreenEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\WaitFormEx.resx">
+      <DependentUpon>WaitFormEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBForm\DBFormDesignerForm.resx">
+      <DependentUpon>DBFormDesignerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBForm\DBForm.resx">
+      <DependentUpon>DBForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBView\DBViewReport.resx">
+      <DependentUpon>DBViewReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBView\DBViewBase.resx">
+      <DependentUpon>DBViewBase.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBInterface\DBInterfaceDesignerForm.resx">
+      <DependentUpon>DBInterfaceDesignerForm.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBInterface\DBInterface.resx">
+      <DependentUpon>DBInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\GridControlEx.resx">
+      <DependentUpon>GridControlEx.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\DataNavigatorEx.resx">
+      <DependentUpon>DataNavigatorEx.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DBView\DBViewInterface.resx">
+      <DependentUpon>DBViewInterface.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Key_base1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\Key1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\DATABASE.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Erase.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Paste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\export-16x16.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

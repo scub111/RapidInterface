@@ -1,0 +1,527 @@
+----- 08.05.2015 14:53:00: Job 'RapidInterface': ANALYSIS started by Periodic Timer on computer 'BISKUBKN-PC' (GoodSync 9.1.6.6 on Windows 7) -----
+RapidInterface: D:\Мои документы\!Projects\RapidInterface\RapidInterface <-> =SCUB111:\RapidInterface\RapidInterface (F:\RapidInterface\RapidInterface), SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3
+Exclude Hidden, Exclude System, Exclude licens*.rfo|cache.rfo|mru.rfo|mpp*.rfo|RoboForm Online Account.rfp|name *._gstmp|/System Volume Information|Thumbs.db|.DS_Store 
+Left: Reading State File D:\Мои документы\!Projects\RapidInterface\RapidInterface\_gsdata_\_file_state_v4._gs
+Locking folder D:\Мои документы\!Projects\RapidInterface\RapidInterface for write
+Left: Files: 1 772 (excluded 0). Folders: 344 (excluded 1). D: NTFS, Free: 253 ГБ, Total: 298 ГБ
+Right: Reading State File F:\RapidInterface\RapidInterface\_gsdata_\_file_state_v4._gs
+Locking folder F:\RapidInterface\RapidInterface for write
+Right: Files: 1 932 (excluded 0). Folders: 363 (excluded 1). F: NTFS, Free: 688 МБ, Total: 14,6 ГБ
+On disk file:///F: space required for sync is 792 КБ, you have 688 МБ
+Changes: 491, Conflicts: 0, CopyTime: 0, CopyState: 0, Errors: 0
+Left to Right: Copy File: 26 Delete File: 205 Rename/Move File/Folder: 74 
+----- 08.05.2015 14:53:01: Analysis Completed. Time 00:00:01, Speed: 2 452 files/s -----
+===== 08.05.2015 14:53:01: Job 'RapidInterface': SYNC started by Periodic Timer on computer 'BISKUBKN-PC' =====
+RapidInterface: D:\Мои документы\!Projects\RapidInterface\RapidInterface <-> =SCUB111:\RapidInterface\RapidInterface (F:\RapidInterface\RapidInterface), SavePrevVers, CleanupPrevVers=30d, CleanupOldGens=24m, TmpDest, EstReq, CopyLocked, DetectMovesAndRenames, DetectFolderMoves, FileLinksDrill, Reconnect=3
+Create Folder 'F:\RapidInterface\RapidInterface\bin'
+Create Folder 'F:\RapidInterface\RapidInterface\bin\Debug'
+Create Folder 'F:\RapidInterface\RapidInterface\bin\Release'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class -> F:\RapidInterface\RapidInterface\Class
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls -> F:\RapidInterface\RapidInterface\Controls
+Create Folder 'F:\RapidInterface\RapidInterface\DBConnection'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm -> F:\RapidInterface\RapidInterface\DBForm
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface -> F:\RapidInterface\RapidInterface\DBInterface
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView -> F:\RapidInterface\RapidInterface\DBView
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Dll -> F:\RapidInterface\RapidInterface\Dll
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images -> F:\RapidInterface\RapidInterface\Images
+Delete File 'F:\RapidInterface\RapidInterface\Life\CSharp_ScubTemplates (2014.04.02).xml'
+Delete File 'F:\RapidInterface\RapidInterface\Life\CSharp_ScubTemplates (2014.04.03).xml'
+Delete File 'F:\RapidInterface\RapidInterface\Life\CSharp_ScubTemplates (2014.04.14).xml'
+Delete File 'F:\RapidInterface\RapidInterface\Life\CSharp_ScubTemplates (2014.05.08).xml'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\_DBInterfaceViewForm.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\_DBInterfaceViewForm.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\app.config'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\DataBase.accdb'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.exe'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.exe.config'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.pdb'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.vshost.exe'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.vshost.exe.config'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\Life.vshost.exe.manifest'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\RapidInterface_v01.dll'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\RapidInterface_v01.pdb'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\DBClass.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\DBClass.rar'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\FormMain.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\CostType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Datebook.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\DatebookCostCollection.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\DatebookMoneyReportView.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\DatebookProfitCollection.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Education.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\ElectronCouplingType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Note.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\NoteType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Person.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\PersonCategory.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\PhoneType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Place.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\ProfitType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Program.ico'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\Sex.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Image\SportType.png'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Life.csproj'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Life.csproj.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Life.csproj.user'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\MainForm.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\MainForm.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\MainForm.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\MainForm.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.CostTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.csproj.FileListAbsolute.txt'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.csproj.GenerateResource.Cache'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.csprojResolveAssemblyReference.cache'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookCostCollectionView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookMoneyReport.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookMoneyReportView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookProfitCollectionView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.DatebookView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.EducationView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.ElectronCouplingTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.exe'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\life.exe.licenses'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.InterfaceReport.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.MainForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.NoteTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.NoteView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.pdb'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PersonCategoryView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PersonView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PhoneTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.PlaceView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.ProfitTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.Properties.Resources.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.SexView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.SportTypeView.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.Temp.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\Life.XtraReportEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Program.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Program.ico'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\AssemblyInfo.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\licenses.licx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\licenses.licx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\Resources.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\Resources.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\Settings.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Properties\Settings.settings'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\DatebookMoneyReport.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\DatebookMoneyReport.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\DatebookMoneyReport.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\InterfaceReport.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\InterfaceReport.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\InterfaceReport.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\XtraReportEx.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Reports\XtraReportEx.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\CostTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\CostTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\CostTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\CostTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookCostCollectionView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookCostCollectionView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookCostCollectionView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookCostCollectionView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookMoneyReportView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookMoneyReportView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookMoneyReportView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookProfitCollectionView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookProfitCollectionView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookProfitCollectionView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookProfitCollectionView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\DatebookView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\EducationView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\EducationView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\EducationView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\EducationView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ElectronCouplingTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ElectronCouplingTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ElectronCouplingTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ElectronCouplingTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\NoteView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonCategoryView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonCategoryView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonCategoryView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonCategoryView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PersonView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PhoneTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PhoneTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PhoneTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PhoneTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PlaceView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PlaceView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PlaceView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\PlaceView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ProfitTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ProfitTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ProfitTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\ProfitTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SexView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SexView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SexView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SexView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SportTypeView.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SportTypeView.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SportTypeView.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\SportTypeView.resx.bak'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\Temp.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\Temp.Designer.cs'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\Views\Temp.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life\XtraReport1.resx'
+Delete File 'F:\RapidInterface\RapidInterface\Life\Life.sln'
+Create Folder 'F:\RapidInterface\RapidInterface\obj'
+Create Folder 'F:\RapidInterface\RapidInterface\obj\Debug'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\TempPE -> F:\RapidInterface\RapidInterface\obj\Debug\TempPE
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties -> F:\RapidInterface\RapidInterface\Properties
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\bin\Debug\RapidInterface.dll'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.resx'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\LoginForm.resx'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.pdb'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseErrorForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseNewForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataNavigatorEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DateEditEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBFormDesignerForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterface.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterfaceDesignerForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewBase.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewInterface.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewReport.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.GridControlEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.LoginForm.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.RepositoryItemDateEditEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.WaitFormEx.resources'
+Delete File 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface.sln'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.dll' -> 'F:\RapidInterface\RapidInterface\bin\Debug\RapidInterface.dll'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb' -> 'F:\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb'
+Close Modified Folder (mod-time, acl): /bin/Debug
+Close Modified Folder (mod-time, acl): /bin
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\AllowSwitchMessage.cs <-> F:\RapidInterface\RapidInterface\Class\AllowSwitchMessage.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\DBAttribute.cs <-> F:\RapidInterface\RapidInterface\Class\DBAttribute.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\EnumTypeConverter.cs <-> F:\RapidInterface\RapidInterface\Class\EnumTypeConverter.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\HostComponent.cs <-> F:\RapidInterface\RapidInterface\Class\HostComponent.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\ImageEx.cs <-> F:\RapidInterface\RapidInterface\Class\ImageEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\MasterRowInfo.cs <-> F:\RapidInterface\RapidInterface\Class\MasterRowInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\MemberInfo.cs <-> F:\RapidInterface\RapidInterface\Class\MemberInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\ThreadTimer.cs <-> F:\RapidInterface\RapidInterface\Class\ThreadTimer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\TypeEx.cs <-> F:\RapidInterface\RapidInterface\Class\TypeEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPCollections.cs <-> F:\RapidInterface\RapidInterface\Class\XPCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPCollectionWithUnit.cs <-> F:\RapidInterface\RapidInterface\Class\XPCollectionWithUnit.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPObjectEx.cs <-> F:\RapidInterface\RapidInterface\Class\XPObjectEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPSourceConverter.cs <-> F:\RapidInterface\RapidInterface\Class\XPSourceConverter.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPTable.cs <-> F:\RapidInterface\RapidInterface\Class\XPTable.cs: already done
+Close Modified Folder (mod-time, acl): /Class
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.cs <-> F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.resx <-> F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.cs <-> F:\RapidInterface\RapidInterface\Controls\DateEditEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\DateEditEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.resx <-> F:\RapidInterface\RapidInterface\Controls\DateEditEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.cs <-> F:\RapidInterface\RapidInterface\Controls\GridControlEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\GridControlEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.resx <-> F:\RapidInterface\RapidInterface\Controls\GridControlEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\LayoutControlEx.cs <-> F:\RapidInterface\RapidInterface\Controls\LayoutControlEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\PropertyGridEx.cs <-> F:\RapidInterface\RapidInterface\Controls\PropertyGridEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.cs <-> F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.resx <-> F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.cs <-> F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.resx <-> F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.cs <-> F:\RapidInterface\RapidInterface\Controls\WaitFormEx.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.Designer.cs <-> F:\RapidInterface\RapidInterface\Controls\WaitFormEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.resx <-> F:\RapidInterface\RapidInterface\Controls\WaitFormEx.resx: already done
+Close Modified Folder (mod-time, acl): /Controls
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.Designer.cs
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.resx' -> 'F:\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.resx'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.Designer.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.resx -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.resx
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DBConnection.cs -> F:\RapidInterface\RapidInterface\DBConnection\DBConnection.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DBConnectionDesigner.cs -> F:\RapidInterface\RapidInterface\DBConnection\DBConnectionDesigner.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\LoginForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\LoginForm.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\LoginForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\LoginForm.Designer.cs
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\DBConnection\LoginForm.resx' -> 'F:\RapidInterface\RapidInterface\DBConnection\LoginForm.resx'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\Security.cs -> F:\RapidInterface\RapidInterface\DBConnection\Security.cs
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\SecurityConverter.cs -> F:\RapidInterface\RapidInterface\DBConnection\SecurityConverter.cs
+Close Modified Folder (mod-time, acl): /DBConnection
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.Designer.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.resx <-> F:\RapidInterface\RapidInterface\DBForm\DBForm.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormActionList.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormActionList.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesigner.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.Designer.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.resx <-> F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemBase.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormItemBase.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemCollectionEditor.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormItemCollectionEditor.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemView.cs <-> F:\RapidInterface\RapidInterface\DBForm\DBFormItemView.cs: already done
+Close Modified Folder (mod-time, acl): /DBForm
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterface.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.Designer.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterface.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.resx <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterface.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceActionList.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceActionList.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesigner.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.Designer.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx.bak <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx.bak: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceItem.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceItem.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceItemCollectionEditor.cs <-> F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceItemCollectionEditor.cs: already done
+Close Modified Folder (mod-time, acl): /DBInterface
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewBase.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.Designer.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewBase.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.resx <-> F:\RapidInterface\RapidInterface\DBView\DBViewBase.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewInterface.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.Designer.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewInterface.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.resx <-> F:\RapidInterface\RapidInterface\DBView\DBViewInterface.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesigner.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewReport.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.Designer.cs <-> F:\RapidInterface\RapidInterface\DBView\DBViewReport.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.resx <-> F:\RapidInterface\RapidInterface\DBView\DBViewReport.resx: already done
+Close Modified Folder (mod-time, acl): /DBView
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Dll\microsoft.visualstudio.shell.design.dll <-> F:\RapidInterface\RapidInterface\Dll\microsoft.visualstudio.shell.design.dll: already done
+Close Modified Folder (mod-time, acl): /Dll
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\00_AddInit.png <-> F:\RapidInterface\RapidInterface\Images\00_AddInit.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\01_Add.png <-> F:\RapidInterface\RapidInterface\Images\01_Add.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\02_Update.png <-> F:\RapidInterface\RapidInterface\Images\02_Update.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\03_Delete.png <-> F:\RapidInterface\RapidInterface\Images\03_Delete.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\04_Up.png <-> F:\RapidInterface\RapidInterface\Images\04_Up.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\05_Down.png <-> F:\RapidInterface\RapidInterface\Images\05_Down.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\DATABASE.png <-> F:\RapidInterface\RapidInterface\Images\DATABASE.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Filter.png <-> F:\RapidInterface\RapidInterface\Images\Filter.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key1.png <-> F:\RapidInterface\RapidInterface\Images\Key1.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key2.png <-> F:\RapidInterface\RapidInterface\Images\Key2.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key3.png <-> F:\RapidInterface\RapidInterface\Images\Key3.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key4.png <-> F:\RapidInterface\RapidInterface\Images\Key4.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base1.png <-> F:\RapidInterface\RapidInterface\Images\Key_base1.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base2.png <-> F:\RapidInterface\RapidInterface\Images\Key_base2.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base3.png <-> F:\RapidInterface\RapidInterface\Images\Key_base3.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Program.ico <-> F:\RapidInterface\RapidInterface\Images\Program.ico: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\User.png <-> F:\RapidInterface\RapidInterface\Images\User.png: already done
+Close Modified Folder (mod-time, acl): /Images
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\de'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\es'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\ja'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug\ru'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Debug'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin\Release'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug\TempPE'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86\Debug'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\obj\x86'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\bin'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\Image'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\obj'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\Properties'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\Reports'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life\Views'
+Delete Folder 'F:\RapidInterface\RapidInterface\Life\Life'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferences.cache -> F:\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferences.cache
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache -> F:\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.FileListAbsolute.txt -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.FileListAbsolute.txt
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\rapidinterface.dll.licenses -> F:\RapidInterface\RapidInterface\obj\Debug\rapidinterface.dll.licenses
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.pdb' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.pdb'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.FileListAbsolute.txt -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.FileListAbsolute.txt
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.GenerateResource.Cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.GenerateResource.Cache
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csprojResolveAssemblyReference.cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csprojResolveAssemblyReference.cache
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseErrorForm.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseErrorForm.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseNewForm.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataBaseNewForm.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataNavigatorEx.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DataNavigatorEx.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DateEditEx.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DateEditEx.resources'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBForm.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBForm.resources
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBFormDesignerForm.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBFormDesignerForm.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterface.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterface.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterfaceDesignerForm.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBInterfaceDesignerForm.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewBase.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewBase.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewInterface.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewInterface.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewReport.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBViewReport.resources'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.dll -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.dll
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\rapidinterface_v01.dll.licenses -> F:\RapidInterface\RapidInterface\obj\Debug\rapidinterface_v01.dll.licenses
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.GridControlEx.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.GridControlEx.resources'
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.LoginForm.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.LoginForm.resources'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.pdb -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.pdb
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.Properties.Resources.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.Properties.Resources.resources
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.RepositoryItemDateEditEx.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.RepositoryItemDateEditEx.resources'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.SplashScreenEx.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.SplashScreenEx.resources
+Copy New 'D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.WaitFormEx.resources' -> 'F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.WaitFormEx.resources'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll <-> F:\RapidInterface\RapidInterface\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll: already done
+Close Modified Folder (mod-time, acl): /obj/Debug/TempPE
+Close Modified Folder (mod-time, acl): /obj/Debug
+Close Modified Folder (mod-time, acl): /obj
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\AssemblyInfo.cs <-> F:\RapidInterface\RapidInterface\Properties\AssemblyInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\licenses.licx <-> F:\RapidInterface\RapidInterface\Properties\licenses.licx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\licenses.licx.bak <-> F:\RapidInterface\RapidInterface\Properties\licenses.licx.bak: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\Resources.Designer.cs <-> F:\RapidInterface\RapidInterface\Properties\Resources.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\Resources.resx <-> F:\RapidInterface\RapidInterface\Properties\Resources.resx: already done
+Close Modified Folder (mod-time, acl): /Properties
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\bin\Debug'
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\bin\Release'
+Move F:\RapidInterface\RapidInterface\Class\AllowSwitchMessage.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\AllowSwitchMessage.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\DBAttribute.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\DBAttribute.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\EnumTypeConverter.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\EnumTypeConverter.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\HostComponent.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\HostComponent.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\ImageEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\ImageEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\MasterRowInfo.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\MasterRowInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\MemberInfo.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\MemberInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\ThreadTimer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\ThreadTimer.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\TypeEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\TypeEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\XPCollections.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\XPCollectionWithUnit.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPCollectionWithUnit.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\XPObjectEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPObjectEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\XPSourceConverter.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPSourceConverter.cs: already done
+Move F:\RapidInterface\RapidInterface\Class\XPTable.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class\XPTable.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\DataNavigatorEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DataNavigatorEx.resx: already done
+Move F:\RapidInterface\RapidInterface\Controls\DateEditEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\DateEditEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\DateEditEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\DateEditEx.resx: already done
+Move F:\RapidInterface\RapidInterface\Controls\GridControlEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\GridControlEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\GridControlEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\GridControlEx.resx: already done
+Move F:\RapidInterface\RapidInterface\Controls\LayoutControlEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\LayoutControlEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\PropertyGridEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\PropertyGridEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\RepositoryItemDateEditEx.resx: already done
+Move F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\SplashScreenEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\SplashScreenEx.resx: already done
+Move F:\RapidInterface\RapidInterface\Controls\WaitFormEx.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\WaitFormEx.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Controls\WaitFormEx.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls\WaitFormEx.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseErrorForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.resx -> F:\RapidInterface\RapidInterface\DBConnection\DataBaseNewForm.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DBConnection.cs -> F:\RapidInterface\RapidInterface\DBConnection\DBConnection.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\DBConnectionDesigner.cs -> F:\RapidInterface\RapidInterface\DBConnection\DBConnectionDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\LoginForm.cs -> F:\RapidInterface\RapidInterface\DBConnection\LoginForm.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\LoginForm.Designer.cs -> F:\RapidInterface\RapidInterface\DBConnection\LoginForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\Security.cs -> F:\RapidInterface\RapidInterface\DBConnection\Security.cs: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection\SecurityConverter.cs -> F:\RapidInterface\RapidInterface\DBConnection\SecurityConverter.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBForm.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBForm.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBForm.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBForm.resx: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormActionList.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormActionList.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormDesigner.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerForm.resx: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormItemBase.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemBase.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormItemCollectionEditor.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemCollectionEditor.cs: already done
+Move F:\RapidInterface\RapidInterface\DBForm\DBFormItemView.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm\DBFormItemView.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterface.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterface.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterface.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterface.resx: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceActionList.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceActionList.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesigner.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx.bak <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerForm.resx.bak: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceItem.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceItem.cs: already done
+Move F:\RapidInterface\RapidInterface\DBInterface\DBInterfaceItemCollectionEditor.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface\DBInterfaceItemCollectionEditor.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewBase.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewBase.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewBase.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewBase.resx: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewInterface.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewInterface.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewInterface.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterface.resx: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesigner.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesigner.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesignerVerbCollections.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewInterfaceDesignerVerbCollections.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewReport.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewReport.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\DBView\DBViewReport.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView\DBViewReport.resx: already done
+Move F:\RapidInterface\RapidInterface\Dll\microsoft.visualstudio.shell.design.dll <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Dll\microsoft.visualstudio.shell.design.dll: already done
+Move F:\RapidInterface\RapidInterface\Images\00_AddInit.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\00_AddInit.png: already done
+Move F:\RapidInterface\RapidInterface\Images\01_Add.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\01_Add.png: already done
+Move F:\RapidInterface\RapidInterface\Images\02_Update.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\02_Update.png: already done
+Move F:\RapidInterface\RapidInterface\Images\03_Delete.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\03_Delete.png: already done
+Move F:\RapidInterface\RapidInterface\Images\04_Up.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\04_Up.png: already done
+Move F:\RapidInterface\RapidInterface\Images\05_Down.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\05_Down.png: already done
+Move F:\RapidInterface\RapidInterface\Images\DATABASE.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\DATABASE.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Filter.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Filter.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key1.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key1.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key2.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key2.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key3.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key3.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key4.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key4.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key_base1.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base1.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key_base2.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base2.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Key_base3.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Key_base3.png: already done
+Move F:\RapidInterface\RapidInterface\Images\Program.ico <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\Program.ico: already done
+Move F:\RapidInterface\RapidInterface\Images\User.png <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images\User.png: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferences.cache -> F:\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferences.cache: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache -> F:\RapidInterface\RapidInterface\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.FileListAbsolute.txt -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.FileListAbsolute.txt: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\rapidinterface.dll.licenses -> F:\RapidInterface\RapidInterface\obj\Debug\rapidinterface.dll.licenses: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.FileListAbsolute.txt -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.FileListAbsolute.txt: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.GenerateResource.Cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csproj.GenerateResource.Cache: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csprojResolveAssemblyReference.cache -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.csprojResolveAssemblyReference.cache: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBForm.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.DBForm.resources: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.dll -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.dll: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\rapidinterface_v01.dll.licenses -> F:\RapidInterface\RapidInterface\obj\Debug\rapidinterface_v01.dll.licenses: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.pdb -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.pdb: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.Properties.Resources.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.Properties.Resources.resources: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.SplashScreenEx.resources -> F:\RapidInterface\RapidInterface\obj\Debug\RapidInterface_v01.SplashScreenEx.resources: already done
+Move F:\RapidInterface\RapidInterface\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug\TempPE -> F:\RapidInterface\RapidInterface\obj\Debug\TempPE: already done
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj\Debug'
+Move F:\RapidInterface\RapidInterface\Properties\AssemblyInfo.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\AssemblyInfo.cs: already done
+Move F:\RapidInterface\RapidInterface\Properties\licenses.licx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\licenses.licx: already done
+Move F:\RapidInterface\RapidInterface\Properties\licenses.licx.bak <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\licenses.licx.bak: already done
+Move F:\RapidInterface\RapidInterface\Properties\Resources.Designer.cs <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\Resources.Designer.cs: already done
+Move F:\RapidInterface\RapidInterface\Properties\Resources.resx <-> F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties\Resources.resx: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\RapidInterface.csproj -> F:\RapidInterface\RapidInterface\RapidInterface.csproj
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\RapidInterface.csproj.user -> F:\RapidInterface\RapidInterface\RapidInterface.csproj.user
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\bin'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Class -> F:\RapidInterface\RapidInterface\Class: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Controls -> F:\RapidInterface\RapidInterface\Controls: already done
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBConnection'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBForm -> F:\RapidInterface\RapidInterface\DBForm: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBInterface -> F:\RapidInterface\RapidInterface\DBInterface: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\DBView -> F:\RapidInterface\RapidInterface\DBView: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Dll -> F:\RapidInterface\RapidInterface\Dll: already done
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Images -> F:\RapidInterface\RapidInterface\Images: already done
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\obj'
+Move Folder F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\Properties -> F:\RapidInterface\RapidInterface\Properties: already done
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface'
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\RapidInterface.csproj -> F:\RapidInterface\RapidInterface\RapidInterface.csproj: already done
+Move F:\RapidInterface\RapidInterface\RapidInterface\RapidInterface\RapidInterface.csproj.user -> F:\RapidInterface\RapidInterface\RapidInterface.csproj.user: already done
+Delete Folder 'F:\RapidInterface\RapidInterface\Life'
+Delete Folder 'F:\RapidInterface\RapidInterface\RapidInterface'
+Save State File D:\Мои документы\!Projects\RapidInterface\RapidInterface\_gsdata_\_file_state_v4._gs
+Save State File F:\RapidInterface\RapidInterface\_gsdata_\_file_state_v4._gs
+Items Synced OK: 491, Errors: 0
+===== 08.05.2015 14:53:19: Sync Completed. Time: 00:00:18, Speed: 636 КБ/s =====
+Unlocking folder (set insync file) D:\Мои документы\!Projects\RapidInterface\RapidInterface\_gsdata_\_insync_v4.gsl
+Unlocking folder (set insync file) F:\RapidInterface\RapidInterface\_gsdata_\_insync_v4.gsl
+

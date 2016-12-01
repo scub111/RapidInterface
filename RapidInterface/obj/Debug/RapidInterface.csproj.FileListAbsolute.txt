@@ -1,0 +1,74 @@
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\bin\Debug\RapidInterface.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\bin\Debug\RapidInterface.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DateEditEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.RepositoryItemDateEditEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DataBaseNewForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DataBaseErrorForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.LoginForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.SplashScreenEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.WaitFormEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBFormDesignerForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBViewReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBViewBase.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBInterfaceDesignerForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBInterface.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.GridControlEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DataNavigatorEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface_v01.DBViewInterface.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface.Properties.Resources.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface.dll.licenses
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\RapidInterface\RapidInterface_v01\obj\Debug\RapidInterface.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csprojResolveAssemblyReference.cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll.licenses
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.pdb
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DateEditEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.RepositoryItemDateEditEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataBaseNewForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataBaseErrorForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.LoginForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.SplashScreenEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.WaitFormEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBFormDesignerForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewReport.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewBase.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBInterfaceDesignerForm.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBInterface.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.GridControlEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataNavigatorEx.resources
+D:\Мои документы\!Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewInterface.resources
+D:\_Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.dll
+D:\_Projects\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb
+D:\_Projects\RapidInterface\RapidInterface\bin\Debug\Usable.dll
+D:\_Projects\RapidInterface\RapidInterface\bin\Debug\Usable.pdb
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csprojResolveAssemblyReference.cache
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.XtraFormOnline.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DateEditEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.RepositoryItemDateEditEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataBaseNewForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataBaseErrorForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.LoginForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.SplashScreenEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.WaitFormEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBFormDesignerForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewReport.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewBase.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBInterfaceDesignerForm.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBInterface.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.GridControlEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DataNavigatorEx.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DBViewInterface.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.Properties.Resources.resources
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csproj.GenerateResource.Cache
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll.licenses
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.dll
+D:\_Projects\RapidInterface\RapidInterface\obj\Debug\RapidInterface.pdb
