@@ -1,15 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
-using System.Diagnostics;
-using System.Text;
 using DevExpress.XtraEditors;
 using DevExpress.Xpo;
 using System.Windows.Forms;
 
 namespace RapidInterface
 {
-    public partial class DataNavigatorEx : DevExpress.XtraEditors.DataNavigator
+    public partial class DataNavigatorEx : DataNavigator
     {
         #region Constructors
         public DataNavigatorEx()
@@ -53,9 +51,9 @@ namespace RapidInterface
         /// </summary>
         public event EventHandler DataBaseSaved;
         #endregion
-        
+
         #region Event handlers
-        public void DataNavigatorEx_ButtonClick(object sender, DevExpress.XtraEditors.NavigatorButtonClickEventArgs e)
+        public void DataNavigatorEx_ButtonClick(object sender, NavigatorButtonClickEventArgs e)
         {
             Error = false;
             XPCollection xpcBase = DataSource as XPCollection;
@@ -77,7 +75,7 @@ namespace RapidInterface
                             if (DataBaseSaved != null)
                                 DataBaseSaved(sender, EventArgs.Empty);
                         }
-                        catch (System.Exception ex)
+                        catch (Exception ex)
                         {
                             Error = true;
                             XtraMessageBox.Show(
@@ -129,7 +127,7 @@ namespace RapidInterface
                         }
                         catch (System.Exception ex)
                         {
-                            DevExpress.XtraEditors.XtraMessageBox.Show(
+                            XtraMessageBox.Show(
                                 ex.InnerException.Message,
                                 ex.InnerException.Source,
                                 MessageBoxButtons.OK,

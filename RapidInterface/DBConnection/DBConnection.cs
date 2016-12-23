@@ -203,6 +203,11 @@ namespace RapidInterface
         public OwnerShowClose OwnerFormShowDelegate;
 
         /// <summary>
+        /// Форма авторизации.
+        /// </summary>
+        LoginForm LoginForm { get; set; }
+
+        /// <summary>
         /// Метод закрытия окна.
         /// </summary>
         void OwnerFormShowMethod()
@@ -222,6 +227,7 @@ namespace RapidInterface
                 if (LoginFormNeed)
                 {
                     LoginForm loginForm = new LoginForm(this);
+                    LoginForm = loginForm;
 
                     if (DataBaseType == SQLType.Access ||
                         DataBaseType == SQLType.Access2007 ||
@@ -426,7 +432,7 @@ namespace RapidInterface
         /// </summary>
         /// <param name="DataBaseType"></param>
         /// <returns></returns>
-        public bool IsLocalDataBaseType(SQLType DataBaseType)
+        public static bool IsLocalDataBaseType(SQLType DataBaseType)
         {
             if (DataBaseType == SQLType.Access ||
                 DataBaseType == SQLType.Access2007 ||
@@ -520,6 +526,15 @@ namespace RapidInterface
         {
             if (Abort)
                 OwnerForm.Close();
+        }
+
+        public void ShowLoginForm()
+        {
+            if (LoginForm != null)
+            {
+                LoginForm.TopMost = true;
+                LoginForm.TopMost = false;
+            }
         }
     }
     #endregion

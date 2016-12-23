@@ -102,7 +102,6 @@ namespace RapidInterface
             this.ResumeLayout(false);
         }
 
-
         void OnlineChangedMethod()
         {
             if (OnlineChanged != null)
@@ -125,14 +124,12 @@ namespace RapidInterface
         /// </summary>
         public void RunOnline()
         {
-            PositionThread = new ThreadTimer();
-            PositionThread.Period = 1000;
-            PositionThread.Delay = 500;
+            PositionThread = new ThreadTimer() { Period = 1000, Delay = 500 };
             PositionThread.WorkChanged += PositionThread_WorkChanged;
             PositionThread.InterfaceChanged += PositionThread_InterfaceChanged;
             PositionThread.Run();
-            OnlineChangedDelegate = new SimpleDel(OnlineChangedMethod);
-            OnlineCountChangedDelegate = new SimpleDel(OnlineCountChangedMethod);
+            OnlineChangedDelegate = OnlineChangedMethod;
+            OnlineCountChangedDelegate = OnlineCountChangedMethod;
         }
 
         private void XtraFormOnline_KeyPress(object sender, System.Windows.Forms.KeyPressEventArgs e)
@@ -166,9 +163,9 @@ namespace RapidInterface
                 try
                 {
                     if (TriggerOnline.Calculate(Online))
-                        this.Invoke(this.OnlineChangedDelegate);
+                        Invoke(OnlineChangedDelegate);
 
-                    this.Invoke(this.OnlineCountChangedDelegate);
+                    Invoke(OnlineCountChangedDelegate);
                 }
                 catch
                 { }
