@@ -532,8 +532,9 @@ namespace RapidInterface
         {
             if (LoginForm != null)
             {
-                LoginForm.TopMost = true;
-                LoginForm.TopMost = false;
+                //LoginForm.TopMost = true;
+                LoginForm.Activate();
+                //LoginForm.TopMost = false;
             }
         }
     }
