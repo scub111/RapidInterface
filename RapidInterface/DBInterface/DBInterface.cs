@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
-using System.Linq;
 using System.Windows.Forms;
 using DevExpress.Xpo;
 using DevExpress.XtraEditors;
@@ -23,8 +22,6 @@ using System.IO;
 using DevExpress.XtraGrid.Views.BandedGrid;
 using DevExpress.XtraEditors.Controls;
 using DevExpress.Data;
-using System.Reflection;
-using Usable;
 
 namespace RapidInterface
 {

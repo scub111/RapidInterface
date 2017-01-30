@@ -55,6 +55,7 @@ namespace RapidInterface
         #region Event handlers
         public void DataNavigatorEx_ButtonClick(object sender, NavigatorButtonClickEventArgs e)
         {
+            DateTime t0 = DateTime.Now;
             Error = false;
             XPCollection xpcBase = DataSource as XPCollection;
 
@@ -92,8 +93,10 @@ namespace RapidInterface
                                 if (sender == this)
                                     DataNavigatorEx_ButtonClick(null, new NavigatorButtonClickEventArgs(Buttons.CancelEdit));
 
+                                TimeSpan diff = DateTime.Now - t0;
+
                                 XtraMessageBox.Show(
-                                    string.Format("Данные таблицы \"{0}\" сохранены.", TableCaption),
+                                    string.Format("Данные таблицы \"{0}\" сохранены за {1:0} мс.", TableCaption, diff.TotalMilliseconds),
                                     "Информация",
                                     MessageBoxButtons.OK,
                                     MessageBoxIcon.Information,

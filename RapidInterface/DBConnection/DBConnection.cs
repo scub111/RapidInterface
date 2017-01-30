@@ -281,10 +281,14 @@ namespace RapidInterface
 
                 case SQLType.MSSql:
                     if (PasswordNeed)
+                    {
                         XpoDefault.DataLayer = XpoDefault.GetDataLayer(
                             MSSqlConnectionProvider.GetConnectionString(Server, User, Password, DataBase),
                             AutoCreateOption);
 
+                        //string connctionString = string.Format(@"Data Source={0};Initial Catalog=test;Persist Security Info=True;User ID=sa;Password=qwe+ASDFG", Server);
+                        //XpoDefault.DataLayer = XpoDefault.GetDataLayer(connctionString, AutoCreateOption);
+                    }
                     else
                         XpoDefault.DataLayer = XpoDefault.GetDataLayer(
                             MSSqlConnectionProvider.GetConnectionString(Server, DataBase),
