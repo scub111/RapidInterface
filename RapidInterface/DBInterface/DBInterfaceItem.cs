@@ -27,7 +27,7 @@ namespace RapidInterface
     /// Класс-родитель для элементов быстрого интерфейса.
     /// </summary>
     [DesignTimeVisible(false)]
-    public class DBInterfaceItemBase : Component
+    public abstract class DBInterfaceItemBase : Component
     {
         public DBInterfaceItemBase()
         {
@@ -52,7 +52,6 @@ namespace RapidInterface
         //[DesignerSerializationVisibility(DesignerSerializationVisibility.Hidden)]
         //[Browsable(false)]
         public DBInterfaceItemBases Owner { get; set; }
-
 
         DBInterface _DBInterface;
         /// <summary>

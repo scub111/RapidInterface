@@ -276,7 +276,6 @@ namespace RapidInterface
         /// </summary>
         public event OnMyMenuItemClickEventHandler OnMyMenuItemClick;
 
-
         public void AddSubMenuItem(DXSubMenuItem Item)
         {
             SubMenuItems.Add(Item);

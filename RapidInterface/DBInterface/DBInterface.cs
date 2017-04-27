@@ -22,6 +22,7 @@ using System.IO;
 using DevExpress.XtraGrid.Views.BandedGrid;
 using DevExpress.XtraEditors.Controls;
 using DevExpress.Data;
+using Usable;
 
 namespace RapidInterface
 {
@@ -672,7 +673,7 @@ namespace RapidInterface
         /// <summary>
         /// Событие на отключение от сервера.
         /// </summary>
-        public event EventEx.EventHandlerEx<object, Event.CurrentObjectEventArgs> CurrentObjectChanged = delegate { };
+        public event EventHandler<CurrentObjectEventArgs> CurrentObjectChanged = delegate { };
 
         #endregion
 
@@ -1689,6 +1690,33 @@ namespace RapidInterface
                 result = DialogResult.OK;
         }
 
+        public void AddFindPanelToEverything()
+        {
+            int count = 0;
+            if (TableGridView != null)
+            {
+                TableGridView.OptionsFind.AlwaysVisible = true;
+                count++;
+            }
+
+            foreach (var item in ItemsSeq)
+            {
+                DBInterfaceItemXPComplex itemComplex = item as DBInterfaceItemXPComplex;
+                if (itemComplex != null)
+                {
+                    itemComplex.TableGridView.OptionsFind.AlwaysVisible = true;
+                    count++;
+                }
+            }
+
+            XtraMessageBox.Show(
+                $"Панель поиска была доблена в {count} GridControl",
+                "Информация",
+                MessageBoxButtons.OK,
+                MessageBoxIcon.Information,
+                MessageBoxDefaultButton.Button1);
+        }
+
         /// <summary>
         /// Вызов события при нажатии правой кнопки мышки по выпадающему списку.
         /// </summary>
@@ -2099,7 +2127,7 @@ namespace RapidInterface
         private void NavigatorControl_PositionChanged(object sender, EventArgs e)
         {
             XPBaseObject currentObject = GetCurrentObject();
-            CurrentObjectChanged(this, new Event.CurrentObjectEventArgs(currentObject));
+            CurrentObjectChanged(this, new CurrentObjectEventArgs(currentObject));
         }
         #endregion
     }

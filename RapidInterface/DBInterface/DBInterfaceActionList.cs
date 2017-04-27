@@ -79,6 +79,11 @@ namespace RapidInterface
             DBInterface.ShowDesigner();
         }
 
+        public void OnAddFindPanelToEverything()
+        {
+            DBInterface.AddFindPanelToEverything();
+        }
+
         public override DesignerActionItemCollection GetSortedActionItems()
         {
             DesignerActionItemCollection items = new DesignerActionItemCollection();
@@ -107,6 +112,10 @@ namespace RapidInterface
             items.Add(new DesignerActionMethodItem(this, "OnDesigner",
                              "Run Designer", "Methods",
                              "Show designer"));
+
+            items.Add(new DesignerActionMethodItem(this, "OnAddFindPanelToEverything",
+                 "Add find panel", "Methods",
+                 "Add specific find panel to each GridControl"));
 
             //-------------------------------
             items.Add(new DesignerActionHeaderItem("Information", "Info"));

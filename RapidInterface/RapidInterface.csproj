@@ -255,7 +255,7 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Classes\XPSourceConverter.cs" />
-    <Compile Include="Classes\Event.cs" />
+    <Compile Include="Classes\CurrentObjectEventArgs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Classes\MemberInfo.cs" />
     <Compile Include="Classes\TypeEx.cs" />
