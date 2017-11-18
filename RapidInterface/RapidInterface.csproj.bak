@@ -34,46 +34,52 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="DevExpress.BonusSkins.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.BonusSkins.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Data.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.ExpressApp.TreeListEditors.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Pdf.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.RichEdit.v17.1.Export, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.Xpo.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Printing.v17.1.Core, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Utils.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Xpo.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraBars.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraLayout.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraEditors.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraNavBar.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraLayout.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraTreeList.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraNavBar.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraVerticalGrid.v15.2, Version=15.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.XtraPrinting.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraTreeList.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v17.1, Version=17.1.6.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <Private>False</Private>
     </Reference>
     <Reference Include="System">
@@ -125,51 +131,37 @@
     <Compile Include="Classes\XPCollectionWithUnit.cs" />
     <Compile Include="Classes\XPObjectEx.cs" />
     <Compile Include="Classes\XPTable.cs" />
-    <Compile Include="Controls\DateEditEx.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls\DateEditEx.cs" />
     <Compile Include="Controls\DateEditEx.Designer.cs">
       <DependentUpon>DateEditEx.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controls\RepositoryItemDateEditEx.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls\RepositoryItemDateEditEx.cs" />
     <Compile Include="Controls\RepositoryItemDateEditEx.Designer.cs">
       <DependentUpon>RepositoryItemDateEditEx.cs</DependentUpon>
     </Compile>
     <Compile Include="DBConnection\SecurityConverter.cs" />
     <Compile Include="DBConnection\Security.cs" />
-    <Compile Include="DBConnection\DataBaseNewForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="DBConnection\DataBaseNewForm.cs" />
     <Compile Include="DBConnection\DataBaseNewForm.Designer.cs">
       <DependentUpon>DataBaseNewForm.cs</DependentUpon>
     </Compile>
-    <Compile Include="DBConnection\DataBaseErrorForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="DBConnection\DataBaseErrorForm.cs" />
     <Compile Include="DBConnection\DataBaseErrorForm.Designer.cs">
       <DependentUpon>DataBaseErrorForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Classes\DBAttribute.cs" />
-    <Compile Include="DBConnection\LoginForm.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="DBConnection\LoginForm.cs" />
     <Compile Include="DBConnection\LoginForm.Designer.cs">
       <DependentUpon>LoginForm.cs</DependentUpon>
     </Compile>
     <Compile Include="Controls\PropertyGridEx.cs">
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="Controls\SplashScreenEx.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Controls\SplashScreenEx.cs" />
     <Compile Include="Controls\SplashScreenEx.Designer.cs">
       <DependentUpon>SplashScreenEx.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controls\WaitFormEx.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Controls\WaitFormEx.cs" />
     <Compile Include="Controls\WaitFormEx.Designer.cs">
       <DependentUpon>WaitFormEx.cs</DependentUpon>
     </Compile>
@@ -228,18 +220,12 @@
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="DBInterface\DBInterfaceItemCollectionEditor.cs" />
-    <Compile Include="Controls\GridControlEx.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls\GridControlEx.cs" />
     <Compile Include="Controls\GridControlEx.Designer.cs">
       <DependentUpon>GridControlEx.cs</DependentUpon>
     </Compile>
-    <Compile Include="Controls\LayoutControlEx.cs">
-      <SubType>Component</SubType>
-    </Compile>
-    <Compile Include="Controls\DataNavigatorEx.cs">
-      <SubType>Component</SubType>
-    </Compile>
+    <Compile Include="Controls\LayoutControlEx.cs" />
+    <Compile Include="Controls\DataNavigatorEx.cs" />
     <Compile Include="Controls\DataNavigatorEx.Designer.cs">
       <DependentUpon>DataNavigatorEx.cs</DependentUpon>
     </Compile>
@@ -265,12 +251,8 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
-    <Compile Include="Classes\XtraFormOnline.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Classes\XtraFormEx.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="Classes\XtraFormOnline.cs" />
+    <Compile Include="Classes\XtraFormEx.cs" />
     <Service Include="{94E38DFF-614B-4cbd-B67C-F211BB35CE8B}" />
   </ItemGroup>
   <ItemGroup>

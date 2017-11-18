@@ -76,6 +76,7 @@ D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\bin\Debug\RapidInterfa
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\bin\Debug\RapidInterface.pdb
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\bin\Debug\Usable.dll
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\bin\Debug\Usable.pdb
+D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\obj\Debug\RapidInterface.csprojResolveAssemblyReference.cache
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\obj\Debug\RapidInterface.XtraFormOnline.resources
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\obj\Debug\RapidInterface.DateEditEx.resources
 D:\_Cloud\_Projects\Scub111\RapidInterface\RapidInterface\obj\Debug\RapidInterface.RepositoryItemDateEditEx.resources
